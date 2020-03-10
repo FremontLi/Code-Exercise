@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\第一个\第一个\bin\Debug\第一个.exe.config
+C:\Users\ASUS\Desktop\第一个\第一个\bin\Debug\第一个.exe
+C:\Users\ASUS\Desktop\第一个\第一个\bin\Debug\第一个.pdb
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.Properties.Resources.resources
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.exe
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.pdb
+C:\Users\ASUS\Desktop\第一个\第一个\obj\Debug\第一个.form1.resources
