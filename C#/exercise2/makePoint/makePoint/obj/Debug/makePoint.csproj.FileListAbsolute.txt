@@ -7,3 +7,4 @@ F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\makePoint.Pro
 F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\makePoint.csproj.GenerateResource.cache
 F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\makePoint.exe
 F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\makePoint.pdb
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\makePoint.csproj.CoreCompileInputs.cache

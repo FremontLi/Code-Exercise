@@ -1,0 +1,9 @@
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\obj\Debug\BlockGame.csprojAssemblyReference.cache
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\obj\Debug\BlockGame.Form1.resources
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\obj\Debug\BlockGame.Properties.Resources.resources
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.GenerateResource.cache
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\bin\Debug\BlockGame.exe.config
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\bin\Debug\BlockGame.exe
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\bin\Debug\BlockGame.pdb
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\obj\Debug\BlockGame.exe
+F:\GitHub\Code-Exercise\C#\exercise4\BlockGame\BlockGame\obj\Debug\BlockGame.pdb
