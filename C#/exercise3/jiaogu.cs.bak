@@ -1,0 +1,27 @@
+using System;
+class jiaogu
+{
+	public static void Main(string[] args)
+	{
+		/*交错数组--数组的数组
+		int[][]t=new int[3][];
+	    t[0]=new int[2];
+	    t[1]=new int[4];
+	    t[2]=new int[3];
+	    Console.WriteLine(t.Length);
+		*/
+		Console.WriteLine("请输入一个数字");
+		int a=int.Parse(Console.ReadLine());
+		//任何一个数字都可以经过这两个公式变成1，角谷猜想
+		while(a!=1)
+		{
+			Console.Write(" "+a);
+			if(a%2==1) //如果a是奇数
+				a=a*3+1;
+			else a/=2;//如果a是偶数
+		}
+		Console.WriteLine(" "+a);
+	}
+
+
+}

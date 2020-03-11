@@ -1,0 +1,6 @@
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\bin\Debug\Graphics.exe.config
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\bin\Debug\Graphics.exe
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\makePoint.Form1.resources
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\Graphics.Resources.resources
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\Graphic.csproj.GenerateResource.cache
+F:\GitHub\Code-Exercise\C#\exercise2\makePoint\makePoint\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
