@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 
 
-    namespace 第一个
+namespace 第一个
 {
     public partial class form1 : Form
     {
         int k = 0;
         int a;
         int sum = 0;
-        
+
         int[] M = new int[100];
         //public int sum = 0;
         public form1()
@@ -31,7 +31,7 @@ using System.Windows.Forms;
             int p = int.Parse(textBox1.Text);
             int inCircle = 0;
             Random r = new Random();
-            for(int i=0;i<p;i++)
+            for (int i = 0; i < p; i++)
             {
                 double x = r.NextDouble();
                 double y = r.NextDouble();
@@ -59,13 +59,14 @@ using System.Windows.Forms;
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
 
         }
+    
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
@@ -81,22 +82,22 @@ using System.Windows.Forms;
             }
         }
 
-        
+
         private void textBox4_KeyDown(object sender, KeyEventArgs e)
         {
-            
+
         }
-        
+
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+
             textBox3.Text = sum + " ";
             sum = 0;
             string ll = null;
-            for (int i=0; i<a;i++)
+            for (int i = 0; i < a; i++)
             {
-                ll = ll + M[i]+" ";
+                ll = ll + M[i] + " ";
             }
 
             textBox5.Text = ll;
@@ -113,6 +114,14 @@ using System.Windows.Forms;
             textBox3.Text = null;
         }
 
+        private void form1_Load(object sender, EventArgs e)
+        {
 
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
