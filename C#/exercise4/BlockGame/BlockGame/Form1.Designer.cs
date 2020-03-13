@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(256, 550);
+            this.button1.Location = new System.Drawing.Point(197, 385);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(95, 38);
             this.button1.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(691, 617);
+            this.ClientSize = new System.Drawing.Size(491, 435);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
